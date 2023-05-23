@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "file",
+      "type": "sit.int204.previousexam.properties.FileStorageProperty",
+      "sourceType": "sit.int204.previousexam.properties.FileStorageProperty"
+    }
+  ],
+  "properties": [
+    {
+      "name": "file.upload-dir",
+      "type": "java.lang.String",
+      "sourceType": "sit.int204.previousexam.properties.FileStorageProperty"
+    }
+  ],
+  "hints": []
+}
